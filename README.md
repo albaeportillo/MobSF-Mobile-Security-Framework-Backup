@@ -1,3 +1,5 @@
+#Course LinkedIn https://www.linkedin.com/learning/android-app-penetration-testing/basic-adb-commands?autoSkip=true&resume=false
+
 # Mobile Security Framework (MobSF)
 Version: v3.6 beta
 
